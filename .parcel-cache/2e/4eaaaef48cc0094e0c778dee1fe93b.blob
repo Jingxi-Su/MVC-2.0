@@ -1,0 +1,11 @@
+require('./reset.css');
+require('./global.css');
+var _app1Js = require('./app1.js');
+var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+var _app1JsDefault = _parcelHelpers.interopDefault(_app1Js);
+var _app2Js = require('./app2.js');
+var _app2JsDefault = _parcelHelpers.interopDefault(_app2Js);
+require('./app3.js');
+require('./app4.js');
+_app1JsDefault.default.init('#app1');
+_app2JsDefault.default.init('#app2');

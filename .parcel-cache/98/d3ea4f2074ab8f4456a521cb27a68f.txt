@@ -1,0 +1,23 @@
+22
+50C:\Users\Lenovo\Desktop\demo\22.mvc.2\src\app2.css132665083611319184 0
+50C:\Users\Lenovo\Desktop\demo\22.mvc.2\package.json132665083610052209 0
+60C:\Users\Lenovo\Desktop\demo\22.mvc.2\dist\main.1f19ae8e.css132665083610501326 0
+48C:\Users\Lenovo\Desktop\demo\22.mvc.2\.gitignore132665083609922246 0
+52C:\Users\Lenovo\Desktop\demo\22.mvc.2\src\global.css132665083612047243 0
+42C:\Users\Lenovo\Desktop\demo\22.mvc.2\dist132665083610820463 1
+49C:\Users\Lenovo\Desktop\demo\22.mvc.2\src\app2.js132665964042739916 0
+59C:\Users\Lenovo\Desktop\demo\22.mvc.2\dist\main.1f19ae8e.js132665083610770601 0
+41C:\Users\Lenovo\Desktop\demo\22.mvc.2\src132665083612276579 1
+53C:\Users\Lenovo\Desktop\demo\22.mvc.2\dist\index.html132665083610311539 0
+47C:\Users\Lenovo\Desktop\demo\22.mvc.2\yarn.lock132665083610131687 0
+49C:\Users\Lenovo\Desktop\demo\22.mvc.2\src\app1.js132665744427464365 0
+50C:\Users\Lenovo\Desktop\demo\22.mvc.2\src\app1.css132665083611089743 0
+49C:\Users\Lenovo\Desktop\demo\22.mvc.2\src\app3.js132665102673505122 0
+50C:\Users\Lenovo\Desktop\demo\22.mvc.2\src\app3.css132665083611558204 0
+50C:\Users\Lenovo\Desktop\demo\22.mvc.2\src\app4.css132665083611807876 0
+49C:\Users\Lenovo\Desktop\demo\22.mvc.2\src\app4.js132665083611897608 0
+52C:\Users\Lenovo\Desktop\demo\22.mvc.2\src\index.html132665083612166895 0
+64C:\Users\Lenovo\Desktop\demo\22.mvc.2\dist\main.1f19ae8e.css.map132665083610630972 0
+49C:\Users\Lenovo\Desktop\demo\22.mvc.2\src\main.js132665083612256625 0
+51C:\Users\Lenovo\Desktop\demo\22.mvc.2\src\reset.css132665083612396250 0
+63C:\Users\Lenovo\Desktop\demo\22.mvc.2\dist\main.1f19ae8e.js.map132665083610900252 0

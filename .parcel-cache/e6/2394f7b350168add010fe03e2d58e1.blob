@@ -1,0 +1,25 @@
+var _jquery = require('jquery');
+var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+var _jqueryDefault = _parcelHelpers.interopDefault(_jquery);
+require('./app3.css');
+const html = `
+    <section id="app3">
+      <div class="square"></div>
+    </section>
+`;
+const $element = _jqueryDefault.default(html).appendTo(_jqueryDefault.default('body>.page'));
+const $square = _jqueryDefault.default('#app3 .square');
+const localKey = 'app3.active';
+// yes no undefined
+const active = localStorage.getItem(localKey) === 'yes';
+$square.toggleClass('active', active);
+// 根据active的值来确定是否加class
+$square.on('click', () => {
+  if ($square.hasClass('active')) {
+    $square.removeClass('active');
+    localStorage.setItem(localKey, 'no');
+  } else {
+    $square.addClass('active');
+    localStorage.setItem('app3.active', 'yes');
+  }
+});
